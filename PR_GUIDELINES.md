@@ -18,12 +18,12 @@ Fixes # [ISSUE]
 
 ### Checklist 
 
-- [] My PR follows the style guidelines of this project
+- [ ] My PR follows the style guidelines of this project
 
-- [] I have performed a self-review of my own code or materials
+- [ ] I have performed a self-review of my own code or materials
 
-- [] I have commented my code or provided relevant documentation, particularly in hard-to-understand areas
+- [ ] I have commented my code or provided relevant documentation, particularly in hard-to-understand areas
 
-- [] I have made corresponding changes to the documentation
+- [ ] I have made corresponding changes to the documentation
 
-- [] Any dependent changes have been merged
+- [ ] Any dependent changes have been merged
